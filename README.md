@@ -12,7 +12,7 @@ que suporte as operações de negócio, desde o registro de produtos até promo�
 
 -Visão geral sobre o ambiente GCP e o processo.
 
--Detalhes sobre a Ingestão (Não vou entrar no conceito de FULL e Incremental)
+-Detalhes sobre a Ingestão FULL 
 
 -Detalhes do Processo ETL no Dataform
 
