@@ -23,6 +23,12 @@ que suporte as operações de negócio, desde o registro de produtos até promo�
 - APIs
 - Serviços GCP: Composer, Cloud Functions, BigQuery, DataForm, Dataflow, Cloud Storage, Secret Manager.
 
+
+![imagem](https://github.com/pandex7/teste-Tecnico/blob/main/assets/1.png)
+
+
+
+
 ## Ambientes e Execução
 ## Componentes
 
@@ -147,7 +153,7 @@ Para que ocorra a continuidade no processo de ingestão, é necessário fazer a 
 
 A verificação ocorre da seguinte maneira: na função “run” um status “True” é atribuído quando o Job inicia a execução e é utilizado como condição de parada para o laço, em seguida, a função "call_api_status_dataflow" é utilizada para consultar o Google Cloud Dataflow com base no ID do Job, a fim de verificar o status do mesmo. Esse status é dividido em duas categorias: o status de execução (aguardando, em andamento e cancelando) e o status de conclusão (concluído, com falha e cancelado).
 
-# Check states of Dataflow Job
+# Checar o status do job Dataflow
         while status == True:
             try:
                 logging.info(f'Ckeck status of Job ID: {job_id}')
@@ -309,7 +315,6 @@ então na camada LAND E RAW ficara dentro dos campos *Sentiment, *product e *use
 e na camada TRUSTED sera feita a criação sem destinção.
 
 
-IMAGEM.
 
 
 
