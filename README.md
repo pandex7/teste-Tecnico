@@ -309,7 +309,7 @@ então na camada LAND E RAW ficara dentro dos campos *Sentiment, *product e *use
 e na camada TRUSTED sera feita a criação sem destinção.
 
 
-IMAGEM.
+![https://github.com/pandex7/teste-Tecnico/blob/main/assets/1.png]
 
 
 
