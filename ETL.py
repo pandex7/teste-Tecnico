@@ -24,7 +24,7 @@ def clean_field_name(field_name):
     no_accents = unidecode.unidecode(field_name)
     cleaned_name = re.sub(r"[^a-zA-Z0-9_]", "", no_accents)
     if cleaned_name == "RetornoouRevisao":
-        cleaned_name = "RevisaoouRetorno"  # Substitui "RetornoouRevisao" por "RevisaoouRetorno"
+        cleaned_name = "RevisaoouRetorno"
     return cleaned_name
 
 
