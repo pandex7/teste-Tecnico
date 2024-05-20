@@ -23,6 +23,12 @@ que suporte as operações de negócio, desde o registro de produtos até promo�
 - APIs
 - Serviços GCP: Composer, Cloud Functions, BigQuery, DataForm, Dataflow, Cloud Storage, Secret Manager.
 
+
+![imagem](https://github.com/pandex7/teste-Tecnico/blob/main/assets/1.png)
+
+
+
+
 ## Ambientes e Execução
 ## Componentes
 
@@ -309,7 +315,6 @@ então na camada LAND E RAW ficara dentro dos campos *Sentiment, *product e *use
 e na camada TRUSTED sera feita a criação sem destinção.
 
 
-![https://github.com/pandex7/teste-Tecnico/blob/main/assets/1.png]
 
 
 
