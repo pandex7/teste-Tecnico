@@ -8,6 +8,24 @@ A operação consiste em projetar e implementar uma infraestrutura no ambiente d
 que suporte as operações de negócio, desde o registro de produtos até promoções e relatórios de vendas.
 
 
+Poderiamos utilizar AWS e Azure.
+
+AWS: Amazon SQS (Fila de GPS)
+AWS Lambda (Processa GPS e API)
+Amazon API Gateway
+AWS Glue (ETL e Transformação de Dados)
+Amazon S3 (storage)
+Amazon Athena (Consulta SQL)
+Redshift (DW)
+
+Azure
+
+Azure Event Hubs (Fila de GPS)
+Azure Functions (Processa GPS e API)
+Azure blob storage (storage e camadas.)
+Azure Synapse Analytics (Consulta SQL, ETL, Orquestração e dataflow do DW)
+
+
 ## Seções de Wiki
 
 -Visão geral sobre o ambiente GCP e o processo.
