@@ -63,7 +63,7 @@ O projeto é hospedado na GCP e utiliza uma ampla gama de serviços disponibiliz
 
 Utilizaremos 3 sistema de origem, sendo banco, API e Arquivos.
 
-- Pub/Sub (fila GPS)
+- Pub/Sub (fila GPS) : Pub/Sub atuará como um intermediário para garantir a entrega confiável dos dados para o Dataflow e as Cloud Functions.
 - Cloud Functions (Processa GPS e API)
 - Arquivo Json : SFTP 
 
