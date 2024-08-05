@@ -40,7 +40,7 @@ Azure Synapse Analytics (Consulta SQL, ETL, Orquestração e dataflow do DW)
 - Serviços GCP: Composer, Cloud Functions, BigQuery, DataForm, Dataflow, Cloud Storage, Secret Manager.
 
 
-![imagem](https://github.com/pandex7/teste-Tecnico/blob/main/assets/1.png)
+![imagem](https://github.com/pandex7/teste-Tecnico/blob/main/assets/2.png)
 
 
 
